@@ -5,6 +5,10 @@
 </h1>
 <p>
 
+<p><b>NOTE:</b> Due to lack of submission, we are not able to analyse the               data :(</p>
+
+#### Hope next time we'll do better, Till then PEACE
+
 ## About the [ Survey](https://pvcodes.github.io/wym_survey)
 
 We're conducting research on peoples, on what they miss from their past. We'd love to hear from you. The survey should only take 5 minutes, and your responses are completely anonymous.

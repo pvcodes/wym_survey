@@ -177,3 +177,11 @@ button:focus {
     font-size: 1rem;
   }
 }
+
+#header_top {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #232323;
+  text-align: center;
+}
